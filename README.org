@@ -1,0 +1,32 @@
+#+TITLE: Scoring Criteria
+1) Required Video Chat live with audio, shared screen
+2) Behavior, how you react to a CCDC environment
+3) Scoring uptime
+4) 4 Injects 
+5) Successful exploits defenses
+6) 7 hours, no breaks
+7) 1 Linux VM
+8) 1 Windows VM
+9) SSH and RDP
+10) Multiple services
+
+* Judges
+1) Backdoors
+2) Develop injects and VMs
+3) Everybody on the team can pentest
+4) Implant interesting things
+5) Oliver is Black Team
+
+* Infra
+** Arian
+DEADLINE: <2020-09-11 Fri>
+	- Develop Scoring Engine with Oliver
+		- Scoring engine
+			- HTTP Responses
+			- HTTP Strings, randomized pulled
+DEADLINE: <2020-09-30 Wed>
+    - Develop Linux VMs				
+** Oliver
+	- Develop Linux VMs
+	- Develop Scoring Engine with Oliver
+	- Subnetting in VMWare
