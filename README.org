@@ -28,5 +28,6 @@ DEADLINE: <2020-09-30 Wed>
     - Develop Linux VMs				
 ** Oliver
 	- Develop Linux VMs
+	- Develop Windows VMs
 	- Develop Scoring Engine with Oliver
 	- Subnetting in VMWare
